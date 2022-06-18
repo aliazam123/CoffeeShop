@@ -1,0 +1,115 @@
+.available-coffee{
+	color: orange;
+	height: 300px;
+	width: 300px;
+	font-size: 18px;
+	text-align: center;
+}
+.out-of-stock{
+	background-color: red;
+	border: 3px inset black;
+	font-size: 16px;
+	font-style: arial black;
+	font-family: verdana;
+}
+#mocha{
+	color: black;
+}
+.in-stock{
+	background-color: green;
+	border: 3px outset black;
+}
+#cappuccino{
+	color: white;
+}
+.div-img{
+	height: 78%;
+	width: 100%;
+}
+.text-formatting{
+	background-color: grey;
+}
+.pricing-table{
+	width: 200%;
+	border: 2px solid blue;
+	font-family: "Arial Black",Gadget,sans-serif;
+}
+.cap-edit{
+	color: darkblue;
+}
+th{
+	background-color: #32a87d;
+	height: 50px;
+	font-size: 22px;
+}
+td{
+	height: 50px;
+	background-color: brown;
+}
+.tr-in-stock: hover{
+	background-color: #ccffc6;
+}
+
+
+
+<body >
+	<div>
+	<a href="coffeepic.jpeg" style="background-image:url('coffeepic.jpeg'); width:400"><h1>aa.html</h1></a>
+	
+</body>
+
+
+
+
+
+<body>
+        <iframe src="web7.html" width="1410" height="100"></iframe>
+        <iframe src="web4.html" width="700" height="500"></iframe>
+        <iframe src="web5.html" width="700" height="500"></iframe>
+        <iframe src="web6.html" width="1410" height="100"></iframe>
+</body>
+
+
+
+
+
+<div style="border:solid; margin: 200px 50px 50px 400px;padding-left: 40px; padding-bottom: 2px; padding-right:2px; width:600px">
+
+
+
+
+
+
+
+
+
+<tr>
+               <th>sno</th>
+               <th>Name</th>
+               <th colspan="2">Course</th>
+               <th colspan="2">City & State</th>
+          </tr>
+          <tr>
+               <td>1</td>
+               <td>Ali Azam</td>
+               <td>Image processing</td>
+               <td>networking</td>
+               <td>Banglore</td>
+               <td>Karnataka</td>
+          </tr>
+          <tr>
+               <td>2</td>
+               <td>Dimple</td>
+               <td>Software</td>
+               <td>Java</td>
+               <td>Delhi</td>
+               <td>New Delhi</td>
+          </tr>
+          <tr>
+               <td>3</td>
+               <td>Sai</td>
+               <td>Data Analytics</td>
+               <td>Statics</td>
+               <td>Amaravati</td>
+               <td>Andhra</td>
+          </tr>

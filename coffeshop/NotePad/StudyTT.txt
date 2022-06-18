@@ -1,0 +1,11 @@
+------->6am to 8am  Clg subjects
+------->9am to 4pm  Clg Classes
+------->5pm to 6pm  Learn Python/Web 
+------->9:30 to 12:am  Learn Python/web
+
+(12:30---to---5:30)am  Sleeping Time
+
+
+
+Rule 1 : Follow Time Table
+Rule 2 : Just Do Focus on Studies

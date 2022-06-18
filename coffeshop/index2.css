@@ -1,0 +1,11 @@
+body{
+	margin: 0px;
+}
+.coffee-header{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	height: 100px;
+	width: 100%;
+	background-color: #0a2d42;
+}
